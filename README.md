@@ -120,7 +120,6 @@ You're going to add both the doc-brown branch and the marty-mcfly branch to the 
 
 Here, we're saying: "Integrate the differences between `master` and `doc-brown`
 _back_ into `master`."
-=======
 
 When you merge `doc-brown` into your `master` branch, your terminal should print
 a readout that looks something like this:
